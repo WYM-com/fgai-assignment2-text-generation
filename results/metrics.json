@@ -1,0 +1,42 @@
+[
+  {
+    "model": "RNN",
+    "loss": 4.685297227616848,
+    "perplexity": 108.34246989707142,
+    "accuracy": 0.17818044545111364,
+    "training_seconds": 7.903636165894568,
+    "best_epoch": 11,
+    "best_val_loss": 4.546367963515124,
+    "parameters": 223725
+  },
+  {
+    "model": "BiRNN",
+    "loss": 4.7653245591091276,
+    "perplexity": 117.3692043511259,
+    "accuracy": 0.1589278973197433,
+    "training_seconds": 17.49773941701278,
+    "best_epoch": 6,
+    "best_val_loss": 4.652042064904356,
+    "parameters": 363405
+  },
+  {
+    "model": "LSTM",
+    "loss": 4.593938877196436,
+    "perplexity": 98.88315268945914,
+    "accuracy": 0.17516043790109476,
+    "training_seconds": 25.13865366601385,
+    "best_epoch": 14,
+    "best_val_loss": 4.48675197257146,
+    "parameters": 270381
+  },
+  {
+    "model": "GRU",
+    "loss": 4.611125365704039,
+    "perplexity": 100.59729470503856,
+    "accuracy": 0.1849754624386561,
+    "training_seconds": 21.87520350003615,
+    "best_epoch": 9,
+    "best_val_loss": 4.502154190795023,
+    "parameters": 254829
+  }
+]

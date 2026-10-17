@@ -1,0 +1,35 @@
+{
+  "source": "https://www.gutenberg.org/ebooks/11",
+  "download": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+  "sha256": "01b38ea4c710a84bc18d0bd41271a5a1a92b94e97b2812f4dece97d4a694725e",
+  "tokens": 26689,
+  "unique_raw_words": 2628,
+  "vocabulary": 1293,
+  "split_tokens": [
+    21351,
+    2669,
+    2669
+  ],
+  "split_examples": [
+    21331,
+    2649,
+    2649
+  ],
+  "oov_rates": [
+    0.048381808814575426,
+    0.11727238666167104,
+    0.12851255151742225
+  ],
+  "context": 20,
+  "embedding": 64,
+  "hidden": 96,
+  "batch_size": 128,
+  "epochs": 15,
+  "learning_rate": 0.001,
+  "seed": 42,
+  "device": "CPU",
+  "threads": 4,
+  "platform": "macOS-15.7.3-arm64-arm-64bit",
+  "python": "3.12.5",
+  "torch": "2.14.1"
+}

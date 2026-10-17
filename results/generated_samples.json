@@ -1,0 +1,1082 @@
+[
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "of it and she tried to herself to see it is to me it and looked at the other of the house of the house and the queen was not a good deal frightened on the other side of the garden and she went on in the pool and the",
+    "distinct_1": 0.56,
+    "distinct_2": 0.8571428571428571,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "of the wood and how very glad to alice replied in a low voice what heard to see it and she went on the queen and the mock turtle and was that they walked the pool and the queen to be sure for you see you are old that she",
+    "distinct_1": 0.7,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "of the dance will you won't you join the dance you won't you join the hatter as she could not join the dance will you like you a little way on the gryphon and then and the gryphon is a little startled but it was not at once in a",
+    "distinct_1": 0.56,
+    "distinct_2": 0.7755102040816326,
+    "repeated_trigram_fraction": 0.125
+  },
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "of showing them had said its they had gone very lefthand tone and then a little majesty she walked up and filled of knot they marked out a low voice to play queen and in another idea oh of things mad she very eel up thought like they were knocking",
+    "distinct_1": 0.78,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that no i could how alice began on alice nobody a gryphon voice said alice heard to see it girl be otherwise it forgetting in reply did besides to see long to for it occurred to see when it executions and quietly to law a good curiosity in that will",
+    "distinct_1": 0.72,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "wondering about as she was so much hastily in a before but about the night and as they were her arm weak as she judge in my corner and held from come more age like and if i can see two again but to speak into a frog in a",
+    "distinct_1": 0.78,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always handed follow hold i'm its they had gone very lefthand tone underneath either a time majesty directly to my useful filled of knot they marked bear muttered it while cause shoulders am off in his idea oh of things mad she very eel cook thought like poison found knocking",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "that no more child how alice began on alice nobody good a change back with table turned on but girl story filled be forgetting down care did besides well what long to for right occurred angrily he when it executions and quietly i've you a good curiosity in that will",
+    "distinct_1": 0.9,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was dear dogs hastily how into the but duchess the night look up explain you if i weak as she judge like me with eaglet to from come old age like and alice's sighing yes several two again but to speak into that waving then pigs",
+    "distinct_1": 0.86,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "as she was just as well as she could not a next little thing as she remembered to the little thing as she went on a little girl i wish to go back to her feet would not like to go with his head or two there was no one",
+    "distinct_1": 0.66,
+    "distinct_2": 0.8775510204081632,
+    "repeated_trigram_fraction": 0.04166666666666663
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "that it might be sure for the gryphon alice was a very deep tone of the way on the same thing said the duchess and she did not like to find that they were learning to see it and the rabbit hole very glad to ask it in that will",
+    "distinct_1": 0.76,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "as she could not remember to say it how very glad but it was not a long to remark if you can be that she was now to have no use the queen till you won't you won't you won't you would be a little girl i got the gryphon",
+    "distinct_1": 0.7,
+    "distinct_2": 0.9183673469387755,
+    "repeated_trigram_fraction": 0.0625
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "always i know what said to they think i know it next me either to time but she walked up and filled of knot they marked out a low voice to play queen and in another idea oh of things mad she very eel up thought like they were knocking",
+    "distinct_1": 0.8,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that no i could how alice began on alice nobody a gryphon voice said alice heard to see it girl be otherwise it forgetting in reply did besides to see long to for it occurred to see when it executions and quietly to law a good curiosity in that will",
+    "distinct_1": 0.72,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "could the hedgehogs will make me certain hastily to get the bottom about it was the salt of conversation if i can hope that there was no corner have to tell come old age like and if i can see two again but to speak into a frog in a",
+    "distinct_1": 0.82,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always handed follow hold i'm its they had gone very lefthand tone underneath either a time majesty directly to my useful filled of knot they marked bear muttered it while cause shoulders am off in his idea oh of things mad she very eel cook thought like poison found knocking",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "that no more child how alice began on alice nobody good a change back with table turned on but girl story filled be forgetting down care did besides well what long to for right occurred angrily he when it executions and quietly i've you a good curiosity in that will",
+    "distinct_1": 0.9,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was dear dogs hastily how into the but duchess the night look up explain you if i weak as she judge like me with eaglet to from come old age like and alice's sighing yes several two again but to speak into that waving then pigs",
+    "distinct_1": 0.86,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "the room and had no its eyes and see how at once and then she looked up and then alice thought to herself as she went on a little nervous to play croquet with a large idea came a little of the time she was going to get in a",
+    "distinct_1": 0.74,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "the house and was a very neck in the middle of a little bright off with his head or as she went on the queen and the mock turtle and was that they walked the pool and the queen to be sure for you see you are old that she",
+    "distinct_1": 0.72,
+    "distinct_2": 0.9387755102040817,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "the pool as she was so much said alice and the other side of the table to explain you to be sure as she was over to the eaglet but it was more and then and the gryphon is a little startled but it was not at once in a",
+    "distinct_1": 0.68,
+    "distinct_2": 0.8979591836734694,
+    "repeated_trigram_fraction": 0.04166666666666663
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "his usual and had made its they had gone very lefthand tone and then a little majesty she walked up and filled of knot they marked out a low voice to play queen and in another idea oh of things mad she very eel up thought like they were knocking",
+    "distinct_1": 0.78,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that no i could how alice began on alice nobody a gryphon voice said alice heard to see it girl be otherwise it forgetting in reply did besides to see long to for it occurred to see when it executions and quietly to law a good curiosity in that will",
+    "distinct_1": 0.72,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "breath about as she was so much hastily in a before but about the night and as they were her arm weak as she judge in my corner and held from come more age like and if i can see two again but to speak into a frog in a",
+    "distinct_1": 0.78,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always and follow hold i'm its they had gone very lefthand tone underneath either a time majesty directly to my useful filled of knot they marked bear muttered it while cause shoulders am off in his idea oh of things mad she very eel cook thought like poison found knocking",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "that no more child how alice began on alice nobody good a change back with table turned on but girl story filled be forgetting down care did besides well what long to for right occurred angrily he when it executions and quietly i've you a good curiosity in that will",
+    "distinct_1": 0.9,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "RNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "breath about as she was dear dogs hastily how into the but duchess the night look up explain you if i weak as she judge like me with eaglet to from come old age like and alice's sighing yes several two again but to speak into that waving then pigs",
+    "distinct_1": 0.86,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "of it was just as she could not see it had to her either and looked at the other and the dormouse of the house and the gryphon was a long tale and she was to the gryphon of the cat and she picked up and the mock turtle was",
+    "distinct_1": 0.58,
+    "distinct_2": 0.8979591836734694,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "of the same was a very likely on the time she a good deal little table was on it was the duchess the little thing was a very well and was over and the other and he spoke it had happened would be you know you are you will to",
+    "distinct_1": 0.64,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "of the other and was too a large story and the other and the door and the moral of the march hare as she had not to be herself to the mock turtle and then and she thought alice and the queen was to say it was a little sisters",
+    "distinct_1": 0.6,
+    "distinct_2": 0.8775510204081632,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "tea and held had made its they had see very lefthand tone and then a little majesty does to my the filled of isn't they marked on a few minutes cause shoulders else was in a few voice of things hours she very eel cook with like in queer knocking",
+    "distinct_1": 0.82,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "play on i could how alice began on alice nobody good a low said the table was on they girl find quite be forgetting down i think besides well what long to for down occurred this he when it executions and considering i've you like one curiosity in that will",
+    "distinct_1": 0.9,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "wondering about as she was so serpents hastily if you had but about they had never to explain you doing the hatter as she judge was asleep with eaglet and no use the dodo you won't you your yes i'm two her as hard went she said down the gryphon",
+    "distinct_1": 0.76,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "ask i follow hold i'm good they think see yer lefthand tone underneath either a time majesty does to my useful filled of isn't they marked on fancy it them cause shoulders am off in his smiled oh of beginning mad what's very eel cook difficulty like keep queer knocking",
+    "distinct_1": 0.96,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "play eyes i could how alice began on alice nobody good a low said managed table must on it girl story otherwise it forgetting down care did besides it's what long to for down occurred hurried he when it executions and considering go you a good curiosity in that will",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was dear certain hastily timidly into the other duchess screamed had indeed to explain you doing yawning weak as she judge over me corner have to from come mine age like and alice's your yes several two again but to speak soldiers size down in her",
+    "distinct_1": 0.92,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "always and the queen and the baby of the queen was a little thing as she had been to go and then of the house and the executioner was not to see it was in a few as she had not to be herself i don't like it in a",
+    "distinct_1": 0.58,
+    "distinct_2": 0.8367346938775511,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "that it might be sure what would be alice was good a little golden key and the king was the cat and the great was no use in a low of the way of the gryphon he must be the gryphon and the queen was exactly and in that she",
+    "distinct_1": 0.62,
+    "distinct_2": 0.9183673469387755,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "could not remember without it was a large story and the other and the queen and the moral of the mock turtle as she was not to be herself to the mock turtle and then and she thought alice and the gryphon was to speak into a little bottle and",
+    "distinct_1": 0.6,
+    "distinct_2": 0.8979591836734694,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "always came order had made its they had see through lefthand tone and either a little majesty does waistcoat alice thought filled i should don't get said alice growing not cause shoulders would be deeply like the table of beginning and she very called but she like keep queer it",
+    "distinct_1": 0.9,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that no i remained to alice the gryphon alice nobody good a low said alice heard was on they girl find quite be forgetting down i must have it's what long to for down with this he when it executions and considering i've you like that it in that will",
+    "distinct_1": 0.84,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "could not remember without being what's hold hastily timidly and the other duchess the mock turtle as explain you doing the hatter as she judge was so corner have seen from come mine the caterpillar and alice's your beheaded the two again but to speak into that waving the whole",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always came order had made its they question see through lefthand tone and either a time majesty does waistcoat my useful filled of isn't never marked on narrow it them cause shoulders queen can in his smiled oh of beginning mad what's very called cook thought like they're queer knocking",
+    "distinct_1": 0.98,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "that no i remained how alice began on alice nobody good a low back managed heard don't on they girl story otherwise it forgetting down care did besides it's what long to for down occurred hurried he when it executions and considering go you a good curiosity in that will",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was dear certain hastily how into the other duchess the night indeed as explain you if i weak hope that judge like me corner have to whiting come mine age like and if your yes soldiers two again but to speak soldiers size down in her",
+    "distinct_1": 0.88,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "the queen and she felt to find the gryphon and the next and then a little majesty be got to be that she was over and the queen was not to go and she was now to find it had been to fly it was a long tone in a",
+    "distinct_1": 0.56,
+    "distinct_2": 0.8979591836734694,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "the house and she had not like it alice was a a low said the mock turtle said the footman and the little thing was no use in a little long hurry so much occurred the gryphon said the mock turtle said the queen was exactly and in that she",
+    "distinct_1": 0.6,
+    "distinct_2": 0.8775510204081632,
+    "repeated_trigram_fraction": 0.08333333333333337
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "the queen as she was not a large story and the queen was a little bit and they were all the executioner as she was not to be herself to the queen was the first and the mock turtle and two her head to the soldiers little door in a",
+    "distinct_1": 0.56,
+    "distinct_2": 0.8367346938775511,
+    "repeated_trigram_fraction": 0.0625
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "his usual and had made its they had see through a tone and then a little majesty does to alice and filled i should don't get said alice growing she found shoulders else be deeply like the table of beginning and she very called but she like keep queer still",
+    "distinct_1": 0.82,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that it might child how alice began on alice nobody good a low said the table was on it girl story all the march hare she did besides it's what long to for down occurred this he when it executions and then i've you say will and see that she",
+    "distinct_1": 0.84,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "breath the as she was too a large story and the other duchess the way indeed as they were if i weak what queen judge like me with one to from come mine the caterpillar and perhaps your ornamented several two again but to speak she at him in her",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always and follow just hold its they had see through lefthand next underneath either a time majesty does back alice thought filled of isn't never marked on fancy it them cause shoulders am off in his smiled oh of beginning mad what's very called cook thought like keep queer knocking",
+    "distinct_1": 0.96,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "that no i remained how alice began on alice nobody good a low back managed table must on it girl story otherwise it forgetting down care did besides it's what long to for down occurred hurried he when it executions and considering go you a good curiosity in that will",
+    "distinct_1": 0.84,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was dear hold large side into the bottom duchess the night indeed as explain you doing yawning weak as she judge like me corner have to whiting come mine age like and if your beheaded several two again but to speak soldiers size down in her",
+    "distinct_1": 0.88,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "of it and was a good opportunity to see it had to me either you said the cat i wish you mean you won't you are you won't you won't you join the dance said the mock turtle who had not a very called but she had been to lie",
+    "distinct_1": 0.66,
+    "distinct_2": 0.8979591836734694,
+    "repeated_trigram_fraction": 0.04166666666666663
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "of the caterpillar was to herself the gryphon i don't know a little said alice heard the hatter but the mock turtle went on in the gryphon and the rabbit was to for it occurred to the queen and the rabbit was over and a good deal in that at",
+    "distinct_1": 0.66,
+    "distinct_2": 0.8979591836734694,
+    "repeated_trigram_fraction": 0.04166666666666663
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "of the mock turtle who had not a minute or two she was now to herself as she could not remember sure as she was over to herself and as she was a good deal frightened to be beheaded the two of the ground and she was a good deal",
+    "distinct_1": 0.56,
+    "distinct_2": 0.7959183673469388,
+    "repeated_trigram_fraction": 0.08333333333333337
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "of i know what said its they question see very lonely tone and then he looked majesty the other of the dormouse of isn't never marked to fancy it while to shoulders am off in a few not of things mad she very called but she like keep queer as",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that no i think how alice began on alice nobody good a change said alice heard the moral but the story of the march hare she did not well what long to for right occurred to alice when it sat and then i've you say always curiosity in that will",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "for the pigeon was not so small large minute and the other duchess they had indeed to explain you doing them weak as she judge like me in one of from the soldiers age like and alice's your yes about two again but to speak she said down in her",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always came follow knowing said its they question see yer lefthand next underneath either a time majesty does to alice thought filled of isn't never marked fancy fancy it while to shoulders am off in his idea oh of things mad what's very called but thought there keep queer as",
+    "distinct_1": 0.92,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "that no i child how alice began on alice nobody good a change back with table turned on they girl story filled to forgetting down care did besides well what long to for right occurred this he when it executions and considering i've you say always curiosity in that will",
+    "distinct_1": 0.92,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was so certain hastily how answer before but about they had indeed to explain you doing them weak as she judge like me corner have trying from come mine age like and perhaps your yes several two again but to speak she hush put in her",
+    "distinct_1": 0.86,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "always to say it said the mock turtle in a low tone and then a little majesty said the march hare in the dance will you to grow you know you grow you can said the mock turtle who had not quite very called but she had been to lie",
+    "distinct_1": 0.68,
+    "distinct_2": 0.8979591836734694,
+    "repeated_trigram_fraction": 0.04166666666666663
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "that makes you think i can do it alice was good a good deal to find it as it as she went on the distance and the mock turtle and long to look down with the chimney when it was a good deal and the hatter and in that at",
+    "distinct_1": 0.66,
+    "distinct_2": 0.9183673469387755,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "as she as she was so much hastily to get the other side the mock turtle and all over her head sure as she was over to herself and as she was a good deal frightened to be beheaded the two of the ground and she was a good deal",
+    "distinct_1": 0.58,
+    "distinct_2": 0.8163265306122449,
+    "repeated_trigram_fraction": 0.10416666666666663
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "always came all just about its they said alice very lonely tone and then a time majesty the other of the dormouse of isn't never marked to fancy it while to shoulders am off in a few not of things mad she very called but she like keep queer as",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that no i think how alice began on alice nobody good a change said alice heard the moral but the story of the march hare she did not well what long to for right occurred to alice when it sat and then i've you say always curiosity in that will",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "appeared about as she was so small large minute into the other duchess the mock turtle up all over her arm weak as she judge like me in one to from the soldiers age like and alice's your yes about two again but to speak she said down in her",
+    "distinct_1": 0.8,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always handed follow knowing said its they question see yer lefthand next underneath either a time majesty does to alice thought filled of isn't never marked fancy fancy it while to shoulders am off in his idea oh of things mad what's very called but thought there keep queer as",
+    "distinct_1": 0.92,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "that no i child how alice began on alice nobody good a change back with table turned on they girl story filled to forgetting down care did besides well what long to for right occurred this he when it executions and considering i've you say always curiosity in that will",
+    "distinct_1": 0.92,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was so certain hastily how answer before but about they had indeed to explain you doing them weak as she judge like me corner have trying from come mine age like and perhaps your yes several two again but to speak she hush put in her",
+    "distinct_1": 0.86,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "the door and she was just as much as she had to herself as she looked very much back to herself in a minute or two she could not like to go back to her and she had down to her head she called in the dormouse on in a",
+    "distinct_1": 0.58,
+    "distinct_2": 0.8571428571428571,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "the gryphon and the queen was the gryphon that was good a good deal to find it might go to find a little thing as she did not to do you to be down with a little thing it was a good deal and the hatter and in that at",
+    "distinct_1": 0.56,
+    "distinct_2": 0.8571428571428571,
+    "repeated_trigram_fraction": 0.04166666666666663
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "the queen and the caterpillar was a large voice and the other side of the hatter and the queen was no weak as she was over to herself and as she was a good deal and the opportunity of the two as she had never not a little bottle as",
+    "distinct_1": 0.56,
+    "distinct_2": 0.8163265306122449,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "his head are you said its they had gone through the next and wondering to time but she walked so much filled of the hatter marked alice's face that she found to have some twenty to go not of things mad she very called but she like keep queer as",
+    "distinct_1": 0.84,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that no i think how alice began on alice nobody good a change said alice heard the moral but the story of the march hare she did not well what long to for right occurred to alice when it sat and then i've you say always curiosity in that will",
+    "distinct_1": 0.86,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "the pool as she was so certain that she were before but about they had indeed to explain you doing them weak as she judge like me in one of from the soldiers age like and alice's your yes about two again but to speak she said down in her",
+    "distinct_1": 0.8,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always came follow hold i'm its they question see yer lefthand next underneath either a time majesty does to alice thought filled of isn't never marked fancy fancy it while to shoulders am off in his idea oh of things mad what's very called but thought there keep queer as",
+    "distinct_1": 0.92,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "that no i child how alice began on alice nobody good a change back with table turned on they girl story filled to forgetting down care did besides well what long to for right occurred this he when it executions and considering i've you say always curiosity in that will",
+    "distinct_1": 0.92,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was so certain hastily how answer before but about they had indeed to explain you doing them weak as she judge like me corner have trying from come mine age like and perhaps your yes several two again but to speak she hush put in her",
+    "distinct_1": 0.86,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "of it and she went on in the gryphon and the next thing as she could not be the march hare in the mouse of the sea thought alice she found herself to herself in a few minutes of broken and she tried to herself she had been to herself",
+    "distinct_1": 0.62,
+    "distinct_2": 0.9183673469387755,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "of the same thing to alice the gryphon alice was good a little bright off or two it was not at all it and as she did not to see it to look down with a little pattering of the rabbit was in a very good voice in that she",
+    "distinct_1": 0.66,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "of the pigeon she was so much and she went on but it was over at the month was the march hare as she was over to her and she had not to herself what and she was the soldiers of the mushroom and the soldiers of the bottle was",
+    "distinct_1": 0.54,
+    "distinct_2": 0.7959183673469388,
+    "repeated_trigram_fraction": 0.04166666666666663
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "of showing follow but i'm long they think i know longitude next me either to be majesty the other of the filled of isn't they marked on a low while cause and queen out of his eyes but of things mad she very eel cook with like a queer knocking",
+    "distinct_1": 0.84,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that makes i think i can neck on alice nobody good a low said alice heard to herself they girl story filled be forgetting old care did besides well what long to for down with me he when it executions and quietly i've you a good voice in that will",
+    "distinct_1": 0.88,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "wondering about as she was so serpents that she were before but about the sort of the month with her arm weak at that judge in my corner have seen from come so age like and if i can several two again but to speak she added him the whole",
+    "distinct_1": 0.84,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always and follow knowing said its they question see yer lefthand tone underneath either to chose majesty does to my useful filled of isn't they marked on fancy it while cause shoulders queen out somebody down would not of beginning mad with very eel cook thought like poison found knocking",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "play no more child how alice began on alice nobody good a low said managed table don't trouble they girl story filled be forgetting old care did besides well what long to for down occurred this he when it executions and considering i've you a good curiosity in that will",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "alice was beginning to get very tired",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "wondering about as she was dear certain hastily timidly into the other duchess now but the salt explain you if i weak you'd doubtfully judge like me with eaglet to from come mine age like and if i yes i'm two again but to speak soldiers at him in her",
+    "distinct_1": 0.88,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "could not see you said the duchess i don't know it said alice replied to be majesty the same thing said the duchess i don't know said alice and she found herself to herself in a few minutes of broken and she tried to herself she had been to herself",
+    "distinct_1": 0.62,
+    "distinct_2": 0.8163265306122449,
+    "repeated_trigram_fraction": 0.08333333333333337
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "that is i think i can do you tell me said the march hare said the hatter on it and she went on eagerly in a melancholy tone to do you know for it occurred to alice said the mock turtle said the mouse a good deal in that she",
+    "distinct_1": 0.68,
+    "distinct_2": 0.9183673469387755,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "could not remember the caterpillar i don't know that it had been a little pattering of the month with the march hare as she was over to her and she had not a little pattering and she was the soldiers of the mushroom and the soldiers of the bottle was",
+    "distinct_1": 0.6,
+    "distinct_2": 0.8367346938775511,
+    "repeated_trigram_fraction": 0.0625
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "always and held had made its opportunity to see it had next me either to be majesty the other of the filled of isn't they marked on a low while cause and queen out of his eyes but of things mad she very eel cook with like a queer knocking",
+    "distinct_1": 0.84,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that is i think i can neck on alice nobody good a low said alice heard to herself they girl story filled be forgetting old care did besides well what long to for down with me he when it executions and quietly i've you a good voice in that will",
+    "distinct_1": 0.88,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "could about as she was so serpents that she were the other duchess the door and the moral of hearts and weak as she was over upon with one to from the soldiers age like and if you know i'm two again but to speak she added him the whole",
+    "distinct_1": 0.76,
+    "distinct_2": 0.9591836734693877,
+    "repeated_trigram_fraction": 0.02083333333333337
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always came follow knowing said its they question see yer lefthand tone underneath either to chose majesty does to my useful filled of isn't they marked on fancy it while cause shoulders queen out somebody down would not of beginning mad with very eel cook thought like poison found knocking",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "play no more child how alice began on alice nobody good a low said managed table don't trouble they girl story filled be forgetting old care did besides well what long to for down occurred this he when it executions and considering i've you a good curiosity in that will",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the queen said to alice",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "appeared is as she was dear certain hastily timidly into the but duchess the night look up round you if i weak you'd that judge like me with eaglet to from come mine age like and if i yes i'm two again but to speak soldiers at him in her",
+    "distinct_1": 0.88,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 0,
+    "continuation": "his head and she went on in the gryphon and the next and then a little majesty the other of the dormouse of the house and looked at once the other and was sitting on a little golden key and she tried to herself but she had been to herself",
+    "distinct_1": 0.62,
+    "distinct_2": 0.8979591836734694,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 1,
+    "continuation": "that is i think i can do you tell me said the march hare said the hatter on it and she went on eagerly in a melancholy tone to do you know for it occurred to alice said the mock turtle said the mouse a good deal in that she",
+    "distinct_1": 0.68,
+    "distinct_2": 0.9183673469387755,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 0.5,
+    "repeat": 2,
+    "continuation": "the distance as she was so much and she went on but it was over at the month was the march hare as she was over to her and she had not to herself what and she was the soldiers of the mushroom and the soldiers of the bottle was",
+    "distinct_1": 0.54,
+    "distinct_2": 0.7959183673469388,
+    "repeated_trigram_fraction": 0.0625
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 0,
+    "continuation": "his head and they ever its they think away very lonely to me either to be majesty the other of the filled of isn't they marked on a low them to shoulders queen out somebody you would not down said the dormouse very eel cook thought to keep queer it",
+    "distinct_1": 0.82,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 1,
+    "continuation": "that is i think i can neck on alice nobody good a low said alice heard to herself they girl story filled be forgetting old care did besides well what long to for down with me he when it executions and quietly i've you a good voice in that will",
+    "distinct_1": 0.88,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.0,
+    "repeat": 2,
+    "continuation": "manner about as she was so serpents hastily timidly and the other duchess the door and as all it was neither weak at that judge in my corner have seen from come so age like and if you know i'm two again but to speak she added him the whole",
+    "distinct_1": 0.84,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 0,
+    "continuation": "always and follow knowing said its they question see yer lefthand tone underneath either to chose majesty does to my useful filled of isn't they marked on fancy it while cause shoulders queen out somebody down would not of beginning mad with very eel cook thought like poison found knocking",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 1,
+    "continuation": "play no more child how alice began on alice nobody good a low said managed table don't trouble they girl story filled be forgetting old care did besides well what long to for down occurred this he when it executions and considering i've you a good curiosity in that will",
+    "distinct_1": 0.94,
+    "distinct_2": 1.0,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "seed": "the rabbit took a watch out of",
+    "temperature": 1.5,
+    "repeat": 2,
+    "continuation": "manner about as she was dear certain hastily timidly into the but about the effect off up round you if i weak you'd that judge like me with eaglet to from come mine age like and if i yes i'm two again but to speak soldiers at him in her",
+    "distinct_1": 0.86,
+    "distinct_2": 0.9795918367346939,
+    "repeated_trigram_fraction": 0.0
+  }
+]

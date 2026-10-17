@@ -1,0 +1,86 @@
+[
+  {
+    "model": "RNN",
+    "temperature": 0.5,
+    "distinct_1": 0.6755555555555556,
+    "distinct_2": 0.9092970521541949,
+    "repeated_trigram_fraction": 0.032407407407407406
+  },
+  {
+    "model": "RNN",
+    "temperature": 1.0,
+    "distinct_1": 0.7666666666666667,
+    "distinct_2": 0.9705215419501134,
+    "repeated_trigram_fraction": 0.002314814814814819
+  },
+  {
+    "model": "RNN",
+    "temperature": 1.5,
+    "distinct_1": 0.8999999999999999,
+    "distinct_2": 0.9931972789115646,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "temperature": 0.5,
+    "distinct_1": 0.5933333333333333,
+    "distinct_2": 0.8888888888888888,
+    "repeated_trigram_fraction": 0.025462962962962982
+  },
+  {
+    "model": "BiRNN",
+    "temperature": 1.0,
+    "distinct_1": 0.8444444444444446,
+    "distinct_2": 0.9954648526077098,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "BiRNN",
+    "temperature": 1.5,
+    "distinct_1": 0.9044444444444445,
+    "distinct_2": 0.9954648526077098,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "temperature": 0.5,
+    "distinct_1": 0.6111111111111112,
+    "distinct_2": 0.8616780045351473,
+    "repeated_trigram_fraction": 0.043981481481481476
+  },
+  {
+    "model": "LSTM",
+    "temperature": 1.0,
+    "distinct_1": 0.8444444444444446,
+    "distinct_2": 0.9931972789115646,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "LSTM",
+    "temperature": 1.5,
+    "distinct_1": 0.8999999999999999,
+    "distinct_2": 0.9931972789115646,
+    "repeated_trigram_fraction": 0.0
+  },
+  {
+    "model": "GRU",
+    "temperature": 0.5,
+    "distinct_1": 0.6177777777777779,
+    "distinct_2": 0.873015873015873,
+    "repeated_trigram_fraction": 0.027777777777777776
+  },
+  {
+    "model": "GRU",
+    "temperature": 1.0,
+    "distinct_1": 0.8422222222222222,
+    "distinct_2": 0.9954648526077098,
+    "repeated_trigram_fraction": 0.002314814814814819
+  },
+  {
+    "model": "GRU",
+    "temperature": 1.5,
+    "distinct_1": 0.9177777777777778,
+    "distinct_2": 0.9931972789115646,
+    "repeated_trigram_fraction": 0.0
+  }
+]
